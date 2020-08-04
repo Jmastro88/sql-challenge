@@ -32,7 +32,7 @@ Once you have a complete database, do the following:
   6.	Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
   7.	Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
   8.	Listed the frequency count of employee last names, i.e., how many employees share each last name, in decending order.
-      
+  
          Tools: - PostgreSQL 
          
   ### Additional Analysis
