@@ -33,14 +33,14 @@ Once you have a complete database, do the following:
   7.	Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
   8.	Listed the frequency count of employee last names, i.e., how many employees share each last name, in decending order.
   
-         Tools: - PostgreSQL 
+          Tools: - PostgreSQL 
          
   ### Additional Analysis
   1.	Imported the SQL database into Python Pandas. 
   2.	Created a histogram to visualize the most common salary ranges for employees.
   3.	Created a bar chart of average salary by title.
   
-         Tools: - Python
+          Tools: - Python
       
-                - SQLAlchemy 
+                 - SQLAlchemy 
 
