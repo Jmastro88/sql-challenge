@@ -17,6 +17,7 @@ Performe, Data Modeling, Data Engineering, and Data Analysis on employment data 
  ### Data Engineering
   * Used the information to create a table schema for each of the six CSV files. 
   * Import each CSV file into the corresponding SQL table.
+  
     
          Tools: * http://www.quickdatabasediagrams.com
     
@@ -39,7 +40,6 @@ Once you have a complete database, do the following:
   2.	Created a histogram to visualize the most common salary ranges for employees.
   3.	Created a bar chart of average salary by title.
   
-      
          Tools: * Python
       
                 * SQLAlchemy
