@@ -10,9 +10,9 @@ Performe, Data Modeling, Data Engineering, and Data Analysis on employment data 
      
         Tools: * Excel
      
-            * Python
+               * Python
             
-            * http://www.quickdatabasediagrams.com.
+               * http://www.quickdatabasediagrams.com.
             
  ### Data Engineering
   * Used the information to create a table schema for each of the six CSV files. 
@@ -20,7 +20,7 @@ Performe, Data Modeling, Data Engineering, and Data Analysis on employment data 
     
          Tools: * http://www.quickdatabasediagrams.com
     
-           * PostGreSQL
+                * PostGreSQL
  ### Data Analysis
 Once you have a complete database, do the following:
   1.	Listed the following details of each employee: employee number, last name, first name, gender, and salary.
@@ -41,5 +41,5 @@ Once you have a complete database, do the following:
       
          Tools: * Python
       
-             * SQLAlchemy
+                * SQLAlchemy
 
