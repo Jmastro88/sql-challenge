@@ -6,6 +6,7 @@ Performe, Data Modeling, Data Engineering, and Data Analysis on employment data 
 ## Methods Used
  ### Data Modeling
   * Inspected the CSVs and sketch out an ERD (Entity Relationship Diagram) of the tables. 
+     
      Tools: * Excel
      
             * Python
