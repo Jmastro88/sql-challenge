@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-Challenge
 
 ## Challenge Intro/Objective
 Performe, Data Modeling, Data Engineering, and Data Analysis on employment data using SQL and SQL related tools.
