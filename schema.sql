@@ -2,7 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/SkYiEb
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
---Create relavent tables and columns.
+--Created relavent tables and columns.
 --Set columns to correct format.
 
 CREATE TABLE "departments" (
